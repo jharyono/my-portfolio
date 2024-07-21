@@ -8,6 +8,10 @@ export const menus = [
     link: "/about",
   },
   {
+    label: "services",
+    link: "/services",
+  },
+  {
     label: "work",
     link: "/work",
   },
