@@ -4,12 +4,12 @@ export const menus = [
     link: "/",
   },
   {
-    label: "about",
-    link: "/about",
-  },
-  {
     label: "services",
     link: "/services",
+  },
+  {
+    label: "resume",
+    link: "/resume  ",
   },
   {
     label: "work",

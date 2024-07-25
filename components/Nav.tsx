@@ -15,8 +15,8 @@ const Nav = () => {
             href={menu.link}
             className={`${
               menu.link === pathname &&
-              "border-b border-green-900 dark:border-green-400"
-            } capitalize text-green-900 dark:text-green-400 font-menu transition-all`}
+              "border-b border-sky-700 dark:border-sky-400"
+            } capitalize text-sky-700 dark:text-sky-400 font-menu transition-all`}
           >
             {menu.label}
           </Link>

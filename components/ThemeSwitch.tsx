@@ -30,7 +30,7 @@ export default function ThemeSwitch() {
       <SunIcon
         size={20}
         fill="orange"
-        // className="text-yellow-300 cursor-pointer"
+        className="text-yellow-300 cursor-pointer"
         onClick={() => setTheme("light")}
       />
     );
@@ -40,8 +40,8 @@ export default function ThemeSwitch() {
     return (
       <MoonIcon
         size={20}
-        fill="gray"
-        className="text-zinc-900 cursor-pointer"
+        fill="black"
+        className="text-orange-400 cursor-pointer"
         onClick={() => setTheme("dark")}
       />
     );
