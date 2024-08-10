@@ -64,6 +64,12 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground leading-loose;
+  }
+}
+
+@layer base {
+  h1 {
+    @apply text-[48px] xl:text-[64px] leading-[1.1] font-semibold text-black dark:text-white;
   }
 }

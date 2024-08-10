@@ -19,7 +19,7 @@ const Header = () => {
           {/* dark light switcher */}
           <ThemeSwitch />
           <Link href="/contact">
-            <Button>Hire Me</Button>
+            <Button variant="outline">Hire Me</Button>
           </Link>
         </div>
 

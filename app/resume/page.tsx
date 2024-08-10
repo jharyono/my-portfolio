@@ -1,5 +1,5 @@
-const AboutPage = () => {
+const ResumePage = () => {
   return <div>About Page</div>
 }
 
-export default AboutPage
+export default ResumePage

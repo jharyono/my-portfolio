@@ -9,7 +9,7 @@ export const menus = [
   },
   {
     label: "resume",
-    link: "/resume  ",
+    link: "/resume",
   },
   {
     label: "work",
